@@ -1,3 +1,5 @@
+
+// This interface is no longer being used after abstract class refactor
 interface Sortable {
   length: number;
   compare(leftIndex: number, rightIndex: number): boolean;
