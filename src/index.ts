@@ -13,4 +13,3 @@ sorter.sort();
 console.log(charactersCollection.data);
 
 
-
